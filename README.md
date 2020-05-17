@@ -12,4 +12,4 @@ Node-Red Dashboard link after deploying : https://node-red-qpyap.eu-gb.mybluemix
 
 Project video link is : 
 
-The flow of node-red will found in NodeREDZNZDL-master/defaults section as flows.json file.
+The flow of node-red will found in "flows.json" file.
