@@ -12,4 +12,4 @@ Node-Red Dashboard link after deploying : https://node-red-qpyap.eu-gb.mybluemix
 
 Project video link is : 
 
-The flow will found in "flows.json" file.
+The flow will be found in "flows.json" file.
