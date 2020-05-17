@@ -12,6 +12,6 @@ In Watson Discovery I have added ecobee3_userguide.
 
 Node-Red Dashboard link after deploying : https://node-red-qpyap.eu-gb.mybluemix.net/ui
 
-Project video link is : 
+Project video link is : https://drive.google.com/file/d/1BZ5PD4bvGu9ap4--zFkwrM1AZP-kKZJP/view?usp=sharing
 
 The flow will be found in "flows.json" file.
